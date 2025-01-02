@@ -1,0 +1,23 @@
+# R-related
+.Rhistory
+.RData
+.Rproj.user
+.Ruserdata
+
+# Logs and reports
+*.log
+*.out
+*.pdf
+*.csv
+*.Rmd
+*.ipynb
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+
+# Compiled files
+*.o
+*.so
+*.dll
