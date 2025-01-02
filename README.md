@@ -1,5 +1,5 @@
 This repository contains the relevant source code used in the publication  
-**Predicting Dementia in People with Parkinson's Disease** (Mohamed Aborageh, Tom Hähnel, Patricia Martinsconde, Jochen Klucken & Holger Fröhlich. npj parkinson's disease. 2024. DOI: TBD).  
+**Predicting Dementia in People with Parkinson's Disease** (Mohamed Aborageh, Tom Hähnel, Patricia Martinsconde, Jochen Klucken & Holger Fröhlich. npj parkinson's disease. 2025. DOI: TBD).  
 Please refer to this publication for further information.
 
 The repository contains the following code:  
