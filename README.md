@@ -1,6 +1,5 @@
 This repository contains the relevant source code used in the publication  
-**Predicting Dementia in People with Parkinson's Disease** (Mohamed Aborageh, Tom Hähnel, Patricia Martinsconde, Jochen Klucken & Holger Fröhlich. npj parkinson's disease. 2025. DOI: TBD).  
-Please refer to this publication for further information.
+**Predicting Dementia in People with Parkinson's Disease** (Mohamed Aborageh, Tom Hähnel, Patricia Martinsconde, Jochen Klucken & Holger Fröhlich). 
 
 The repository contains the following code:  
 **model_training**: Code for training the Random Forest, Gradient Boosting (XGBoost) and Logistic Regression models.
